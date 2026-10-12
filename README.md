@@ -60,5 +60,4 @@ This project provided practical experience with Pandas DataFrames, data inspecti
 
 ## Author
 **Amit Sharma**
-
-*Beginner Data Analytics Portfolio Project*
++91 9953959896
